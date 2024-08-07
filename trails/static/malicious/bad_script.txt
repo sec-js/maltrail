@@ -6411,6 +6411,7 @@ wildhottiegirls.com
 /7a957ef6cc168ff6.php
 /8621de5ba9a36454.php
 /8c3498a763cc5e26.php
+/8ee66a3c8f19e4b5.php
 /920475a59bac849d.php
 /94903f819d758732.php
 /984dd96064cb23d7.php
@@ -8582,9 +8583,26 @@ cachline.com
 
 /RemoteAssistanceSvc.hta
 
-# Reference:
+# Reference: https://www.virustotal.com/gui/ip-address/1.15.44.211/relations
 
 /m3wtw0.xml
+
+# Reference: https://x.com/500mk500/status/1819325319565758518
+
+/xss.hta
+/xss.js
+/xss.xspf
+
+# Reference: https://x.com/Huntio/status/1820797152085582112
+# Reference: https://moonlock.com/loom-macos-stealer
+
+/yvfiubhferwewf/process_l00m.php
+/yvfiubhferwewf/
+
+# Reference: https://x.com/9823f_/status/1820807344638279761
+# Reference: https://urlscan.io/search/#filename%3A%22php_en-e372bb40.js%22
+
+/php_en-e372bb40.js
 
 # Generic
 

@@ -746,13 +746,26 @@ bbxstresser.llc
 brebes-bx.id
 
 # Reference: https://twitter.com/banthisguy9349/status/1773297607642673237
+# Reference: https://x.com/banthisguy9349/status/1819393857269772320
+# Reference: https://x.com/banthisguy9349/status/1819400254527049908
 # Reference: https://pastebin.com/PGz6A1Nd
 
 0rte.net
+cfx-mirrors.net
+cfxsecurity.app
+cfxsecurity.bet
 cfxsecurity.cc
+cfxsecurity.ru
+cfxsecurity.st
+cfxstress.ru
 cyberflood.ru
+ddoswf.live
+dstat.online
+dstatlove-6qm.pages.dev
+dstatlove.pages.dev
 hexstresser.xyz
 l7stresse.com
+rage.company
 stresslab.su
 vacstresser.ru
 webstress.app
@@ -2780,3 +2793,41 @@ http://141.11.196.2
 http://62.72.50.9
 catstress.cfd
 igar.shayaglobal.site
+
+# Reference: https://www.virustotal.com/gui/ip-address/80.249.145.207/relations
+
+carder007.info
+deluxedumps.ws
+diamonddumps.cc
+easydeals.cc
+fe-shop.cc
+fe-shop.pro
+fe-shop.ru
+ferum-shop.cc
+ferum.cc
+feshop.bid
+feshop18.us
+feshop2017.us
+freshbase.tv
+goldcvv.cc
+greatdumps.cc
+iprofit.su
+j-stash.su
+joker-stash.cc
+joker-stash.ru
+jokerstash.biz
+jokerstash.su
+l33t.cc
+ltd-cc.ws
+royaldumps.biz
+tuxedocrew.cc
+unicc.io
+unicc.mx
+uniccshop.ws
+uniccshops.cc
+vault-market.su
+vaultmarket.su
+worldcvv.cc
+mail.tuxedocrew.cc
+mail.worldcvv.cc
+webmail.worldcvv.cc
